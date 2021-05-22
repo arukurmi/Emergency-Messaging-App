@@ -9,3 +9,6 @@ flutter pub get
 ```
 flutter run
 ```
+
+
+Initialize your firebase account and make a databse and connect 
