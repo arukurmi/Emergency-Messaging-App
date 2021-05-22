@@ -12,7 +12,7 @@ After successful firebase auth, make a firestore database and create a database 
 
 Thats it! You can now run your app by running the folllowing command
 
-#### Usage 
+## Usage 
 
 ```
 flutter run
